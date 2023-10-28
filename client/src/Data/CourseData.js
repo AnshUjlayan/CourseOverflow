@@ -1,7 +1,8 @@
 const SearchData = [
   {
     id: 1,
-    title: "Introduction to Machine Learning",
+    title:
+      "Introduction to Machine Learning bigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigword smallWord bigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigword smallWord bigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigword smallWord",
     desc: "This course provides a comprehensive introduction to the fascinating field of machine learning. Explore the core concepts and algorithms that power artificial intelligence and discover how machines can learn from data. Taught by John Smith.",
     author: "John Smith",
     image: "https://picsum.photos/300/200?random=1",
@@ -20,7 +21,8 @@ const SearchData = [
   },
   {
     id: 2,
-    title: "Data Science for Beginners",
+    title:
+      "Data Science for Beginners smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord smallWord",
     desc: "Join Alice Johnson on a journey into the world of data science. Learn the fundamentals of data analysis, visualization, and statistical modeling. Perfect for beginners looking to dive into data-driven insights.",
     author: "Alice Johnson",
     image: "https://picsum.photos/300/200?random=2",
@@ -39,8 +41,9 @@ const SearchData = [
   },
   {
     id: 3,
-    title: "Advanced Data Structures",
-    desc: "David Brown guides you through advanced data structures, essential for efficient programming and problem-solving. Delve into trees, graphs, and more to take your coding skills to the next level.",
+    title:
+      "Advanced Data Structure bigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigword",
+    desc: "David Brown guides you through advanced data structures, essential for efficient programming and problem-solving. Delve into trees, graphs, and more to take your coding skills to the next level. bigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigwordbigword",
     author: "David Brown",
     image: "https://picsum.photos/300/200?random=3",
     likes: Math.floor(Math.random() * 100),

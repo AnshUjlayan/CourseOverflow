@@ -12,7 +12,6 @@
   overflow: auto;
 }
 .Thumbnail {
-  margin: auto;
 }
 .searchContainer:hover {
   transition: all 0.5s;
@@ -36,17 +35,27 @@
   color: var(--text);
 }
 .desc {
-  word-wrap: break-word;
+  font-size: small;
   white-space: normal;
   margin-top: 10px;
   color: var(--text);
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 720px) {
   /* body {
     -webkit-filter: blur(8px);
   } */
-  .desc {
-    font-size: 12px;
+  .searchContainer {
+    margin: 10px auto;
+    flex-direction: column;
+    width: 310px;
+  }
+  .contentContainer {
+    margin: 0;
+  }
+  .title {
+    margin-top: 10px;
+  }
+  .Thumbnail {
   }
 }
