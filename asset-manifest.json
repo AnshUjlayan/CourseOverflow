@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CourseOverflow/static/css/main.5b4d7836.css",
-    "main.js": "/CourseOverflow/static/js/main.1f808995.js",
-    "index.html": "/CourseOverflow/index.html",
-    "main.5b4d7836.css.map": "/CourseOverflow/static/css/main.5b4d7836.css.map",
-    "main.1f808995.js.map": "/CourseOverflow/static/js/main.1f808995.js.map"
+    "main.css": "/CourseOverflow/home/static/css/main.5b4d7836.css",
+    "main.js": "/CourseOverflow/home/static/js/main.1f808995.js",
+    "index.html": "/CourseOverflow/home/index.html",
+    "main.5b4d7836.css.map": "/CourseOverflow/home/static/css/main.5b4d7836.css.map",
+    "main.1f808995.js.map": "/CourseOverflow/home/static/js/main.1f808995.js.map"
   },
   "entrypoints": [
     "static/css/main.5b4d7836.css",
